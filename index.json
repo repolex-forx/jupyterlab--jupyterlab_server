@@ -1,0 +1,11 @@
+{
+  "org": "jupyterlab",
+  "repo": "jupyterlab_server",
+  "versions": [
+    {
+      "commit": "475cfc19e0e69444fc7e3b0e41655cbeb32a8756",
+      "tag": "v2.28.1",
+      "parsed_at": "2026-10-28T14:49:25.790826+00:00"
+    }
+  ]
+}
